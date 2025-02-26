@@ -66,7 +66,7 @@ After inspecting the four CSV files, sketch an ERD of the tables. Using the info
 
 The ERD of the crowdfunding schema is below: 
 
-![alt text](https://github.com/maddieemihle/Crowdfunding_ETL/blob/main/ERD.png?raw=true) 
+![alt text](https://github.com/maddieemihle/Crowdfunding_ETL/blob/main/Resources/ERD.png?raw=true) 
 
 ## References 
 Data for this dataset was generated and provided by _edX Boot Camps LLC_, and is intended for educational purposes only.
